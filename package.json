@@ -1,5 +1,5 @@
 {
-  "name": "m3u8proxy",
+  "name": "m3u8proxy3",
   "version": "0.0.0",
   "main" : "src/index.ts",
   "devDependencies": {
